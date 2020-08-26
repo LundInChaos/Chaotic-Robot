@@ -24,9 +24,9 @@ def arnold(dxs, t):
 # Set lya_exp = True: calculate the largest lyapunov exponent
 # Set poin = True: generate poincare sectionof the arnold flow
 # ===============================================================
-traj = False
+traj = True
 lya_exp = False
-poin = True
+poin = False
 
 t0   = 0
 tEnd = 5000
