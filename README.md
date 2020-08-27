@@ -7,7 +7,7 @@ Project by Silo Cui and Markus Ernstsson, [report](./Arnold_flow.pdf) in `Arnold
 
 ## Content
 
-Arnoldtraj.py. Calculates Arnold's flow trajectory, adjust `traj`, `poin`, `lya_exp` to `True` to calculate 3D trajectory, Poincare' section, and Lyapunov exponent respectively.
+Arnoldtraj.py. Calculates Arnold's flow trajectory. use `--help` option to show help
 
 ## Reproducibility
 
